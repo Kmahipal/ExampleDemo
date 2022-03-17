@@ -1,3 +1,5 @@
 class Hello{
 sop("hello")
+sop("world")
+sop("testing")
 }
